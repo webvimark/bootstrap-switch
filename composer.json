@@ -1,5 +1,5 @@
 {
-	"name": "webvimark/BootstrapSwitch",
+	"name": "webvimark/bootstrap-switch",
 	"description": "BootstrapSwitch extension for yii 2",
 	"autoload": {
 		"psr-4": {
