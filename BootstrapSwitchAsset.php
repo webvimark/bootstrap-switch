@@ -1,16 +1,8 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: mark
- * Date: 6/18/14
- * Time: 10:45 AM
- */
 
-namespace app\webvimark\extensions\BootstrapSwitch;
-
+namespace webvimark\extensions\BootstrapSwitch;
 
 use yii\web\AssetBundle;
-use yii\web\View;
 
 class BootstrapSwitchAsset extends AssetBundle
 {

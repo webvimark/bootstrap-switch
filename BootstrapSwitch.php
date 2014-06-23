@@ -1,13 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: mark
- * Date: 6/18/14
- * Time: 10:38 AM
- */
-
-namespace app\webvimark\extensions\BootstrapSwitch;
-
+namespace webvimark\extensions\BootstrapSwitch;
 
 use yii\base\Widget;
 use yii\helpers\Json;
